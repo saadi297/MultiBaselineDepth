@@ -25,5 +25,5 @@ Our code is based on Monodepth. Please see [monodepth](https://github.com/mrhari
 ## Dataset
 The CARLA and small objects datasets can be downloaded from [link](https://drive.google.com/drive/u/1/folders/1xoXOQn3126eArmoUCz3N0VEUzqarqDQo).
 
-## Usage
+## Contact
 If you have any questions about the code and dataset, feel free to contact at saadimran@kaist.ac.kr
